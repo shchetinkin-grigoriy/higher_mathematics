@@ -2,7 +2,7 @@
 import numpy as np                  #для работы с массивами - их по умолчанию в Python нет
 
 import matplotlib.pyplot as plt     #для генерации графиков
-from scipy.stats import norm
+from scipy.stats import norm        #для нормально расперделения
 import matplotlib.mlab as mlab      #
 
 mu = 50
